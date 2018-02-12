@@ -1,0 +1,17 @@
+.blocks{
+	height: 200px;
+}
+.col-lg-4{
+	border:2px solid black;
+	height: 200px;
+}
+.col-lg-8{
+	border:2px solid black;
+	height: 200px;
+}
+.gallery, .info{
+	height: 400px;
+}
+a.phone{
+	float: right;
+}
